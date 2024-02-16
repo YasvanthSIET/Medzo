@@ -1,0 +1,221 @@
+.div {
+    border-radius: 22px;
+    background-color: #f5f7f6;
+    display: flex;
+    max-width: 480px;
+    width: 100%;
+    flex-direction: column;
+    margin: 0 auto;
+    padding: 23px 14px 8px;
+  }
+  .div-2 {
+    align-self: center;
+    display: flex;
+    width: 100%;
+    max-width: 307px;
+    justify-content: space-between;
+    gap: 20px;
+  }
+  .div-3 {
+    color: var(--Day-Master-Master-100, #181818);
+    text-align: center;
+    font: 590 17px/129% SF Pro, sans-serif;
+  }
+  .div-4 {
+    display: flex;
+    align-items: start;
+    justify-content: space-between;
+    gap: 7px;
+  }
+  .img {
+    aspect-ratio: 1.59;
+    object-fit: auto;
+    object-position: center;
+    width: 19px;
+    fill: var(--Day-Master-Master-100, #181818);
+  }
+  .img-2 {
+    aspect-ratio: 1.41;
+    object-fit: auto;
+    object-position: center;
+    width: 17px;
+    fill: var(--Day-Master-Master-100, #181818);
+  }
+  .img-3 {
+    aspect-ratio: 2.08;
+    object-fit: auto;
+    object-position: center;
+    width: 27px;
+    align-self: stretch;
+  }
+  .div-5 {
+    display: flex;
+    margin-top: 41px;
+    justify-content: space-between;
+    gap: 20px;
+    font-size: 20px;
+    color: #000;
+    font-weight: 700;
+  }
+  .img-4 {
+    aspect-ratio: 0.6;
+    object-fit: auto;
+    object-position: center;
+    width: 12px;
+    align-self: start;
+  }
+  .div-6 {
+    font-family: Urbanist, sans-serif;
+    flex-grow: 1;
+    flex-basis: auto;
+  }
+  .div-7 {
+    border-radius: 10px;
+    background-color: var(--Color-4, #fff);
+    display: flex;
+    margin-top: 24px;
+    flex-direction: column;
+    font-size: 16px;
+    color: var(--3, #111a34);
+    font-weight: 400;
+    padding: 10px 4px 10px 10px;
+  }
+  .img-5 {
+    aspect-ratio: 0.85;
+    object-fit: auto;
+    object-position: center;
+    width: 57px;
+    align-self: center;
+  }
+  .div-8 {
+    align-self: center;
+    white-space: nowrap;
+    font: 12px Urbanist, sans-serif;
+  }
+  .div-9 {
+    font-family: Urbanist, sans-serif;
+    margin-top: 26px;
+  }
+  .div-10 {
+    border-radius: 8px;
+    border: 1px solid var(--3, #111a34);
+    background-color: #fff;
+    margin-top: 16px;
+    height: 56px;
+  }
+  .div-11 {
+    font-family: Urbanist, sans-serif;
+    margin-top: 26px;
+  }
+  .div-12 {
+    border-radius: 8px;
+    border: 1px solid var(--3, #111a34);
+    background-color: #fff;
+    margin-top: 12px;
+    height: 56px;
+  }
+  .div-13 {
+    font-family: Urbanist, sans-serif;
+    margin-top: 25px;
+  }
+  .div-14 {
+    border-radius: 8px;
+    border: 1px solid var(--3, #111a34);
+    background-color: #fff;
+    margin-top: 16px;
+    height: 56px;
+  }
+  .div-15 {
+    font-family: Urbanist, sans-serif;
+    align-self: start;
+    margin-top: 26px;
+  }
+  .div-16 {
+    justify-content: center;
+    border-radius: 8px;
+    box-shadow: 0px 4px 14px 0px rgba(0, 0, 0, 0.1);
+    background-color: var(--Color-4, #fff);
+    align-self: start;
+    display: flex;
+    margin-top: 16px;
+    flex-direction: column;
+    height: 137px;
+    font-size: 14px;
+    color: #333;
+    font-weight: 700;
+    white-space: nowrap;
+    letter-spacing: 0.2px;
+    line-height: 150%;
+    padding: 0 74px 0 16px;
+  }
+  .div-17 {
+    font-family: Manrope, sans-serif;
+  }
+  .div-18 {
+    font-family: Manrope, sans-serif;
+    margin-top: 35px;
+  }
+  .div-19 {
+    font-family: Manrope, sans-serif;
+    margin-top: 35px;
+  }
+  .div-20 {
+    font-family: Urbanist, sans-serif;
+    align-self: start;
+    margin-top: 27px;
+  }
+  .div-21 {
+    justify-content: center;
+    border-radius: 8px;
+    box-shadow: 0px 4px 14px 0px rgba(0, 0, 0, 0.1);
+    background-color: var(--Color-4, #fff);
+    align-self: start;
+    display: flex;
+    margin-top: 16px;
+    flex-direction: column;
+    font-size: 14px;
+    color: #333;
+    font-weight: 700;
+    white-space: nowrap;
+    letter-spacing: 0.2px;
+    line-height: 150%;
+    padding: 17px 71px 17px 16px;
+  }
+  .div-22 {
+    font-family: Manrope, sans-serif;
+  }
+  .div-23 {
+    font-family: Manrope, sans-serif;
+    margin-top: 32px;
+  }
+  .div-24 {
+    font-family: Urbanist, sans-serif;
+    margin-top: 25px;
+  }
+  .div-25 {
+    border-radius: 8px;
+    border: 1px solid var(--3, #111a34);
+    background-color: var(--Color-4, #fff);
+    margin-top: 16px;
+    height: 122px;
+  }
+  .div-26 {
+    align-items: center;
+    border-radius: 7.141px;
+    background-color: var(--1, #ffaf38);
+    margin-top: 17px;
+    justify-content: center;
+    color: var(--Color-4, #fff);
+    white-space: nowrap;
+    text-align: center;
+    padding: 21px 60px;
+    font: 500 18px/129% Poppins, sans-serif;
+  }
+  .div-27 {
+    border-radius: 100px;
+    background-color: var(--Label-Color-Light-Primary, #000);
+    align-self: center;
+    margin-top: 34px;
+    width: 134px;
+    height: 5px;
+  }
