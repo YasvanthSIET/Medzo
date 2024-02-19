@@ -1,0 +1,350 @@
+        *{
+          margin: 0%;
+          padding: 0%;
+          box-sizing: border-box;
+        }
+        body{
+          height: 100vh;
+          background-color: #efe5e5;
+        }
+        .div {
+          background-color: var(--f-5-f-7-f-6, #f6f6f6);
+          display: flex;
+          width: 100%;
+          flex-direction: column;
+          align-items: center;
+        }
+        /* .div-2 {
+          justify-content: space-between;
+          align-self: stretch;
+          display: flex;
+          width: 100%;
+          gap: 20px;
+          font-size: 14px;
+          color: #1f1f1f;
+          font-weight: 500;
+          white-space: nowrap;
+          letter-spacing: 0.14px;
+          line-height: 143%;
+          padding: 22px 23px 10px;
+        } */
+        .div-3 {
+          font-variant-numeric: lining-nums proportional-nums;
+          font-feature-settings: "dlig" on, "ss02" on;
+          font-family: Roboto, sans-serif;
+        }
+        .div-4 {
+          justify-content: space-between;
+          display: flex;
+          margin-top: 12px;
+          width: 100%;
+          gap: 20px;
+          padding: 0 12px;
+        }
+        .div-5 {
+          display: flex;
+          justify-content: space-between;
+          gap: 9px;
+          font-size: 16px;
+          color: var(--3, #111a34);
+          white-space: nowrap;
+          text-align: center;
+        }
+        .img-2 {
+          aspect-ratio: 1;
+          object-fit: auto;
+          object-position: center;
+          width: 48px;
+        }
+        .div-6 {
+          justify-content: space-between;
+          display: flex;
+          flex-grow: 1;
+          flex-basis: 0%;
+          flex-direction: column;
+          margin: auto 0;
+          padding: 0 20px;
+        }
+        .div-7 {
+          font-family: Urbanist, sans-serif;
+          font-weight: 500;
+        }
+        .div-8 {
+          font-family: Urbanist, sans-serif;
+          font-weight: 600;
+        }
+        .div-9 {
+          justify-content: center;
+          align-items: center;
+          border-radius: 50px;
+          background-color: var(--Color-4, #fff);
+          display: flex;
+          aspect-ratio: 1;
+          width: 40px;
+          height: 40px;
+          margin: auto 0;
+          padding: 0 8px;
+        }
+        .img-3 {
+          aspect-ratio: 1;
+          object-fit: auto;
+          object-position: center;
+          width: 100%;
+        }
+        .div-10 {
+          justify-content: space-between;
+          display: flex;
+          margin-top: 8px;
+          width: 100%;
+          gap: 20px;
+          font-size: 20px;
+          color: var(--3, #111a34);
+          font-weight: 700;
+          padding: 0 23px 0 15px;
+        }
+        .div-11 {
+          font-family: Urbanist, sans-serif;
+        }
+        .img-4 {
+          aspect-ratio: 1;
+          object-fit: auto;
+          object-position: center;
+          width: 20px;
+          margin: auto 0;
+        }
+        .div-12 {
+          display: flex;
+          margin-top: 12px;
+          width: 100%;
+          flex-direction: column;
+          font-size: 14px;
+          color: var(--3, #111a34);
+          white-space: nowrap;
+          text-align: center;
+          padding: 0 18px;
+        }
+        .div-13 {
+          justify-content: space-between;
+          align-items: center;
+          display: flex;
+          gap: 20px;
+          font-weight: 500;
+          padding: 0 3px 0 10px;
+        }
+        .div-14 {
+          font-family: Roboto, sans-serif;
+          align-self: stretch;
+          margin: auto 0;
+        }
+        .div-15 {
+          font-family: Roboto, sans-serif;
+          align-self: stretch;
+          margin: auto 0;
+        }
+        .div-16 {
+          font-family: Roboto, sans-serif;
+          align-self: stretch;
+          margin: auto 0;
+        }
+        .div-17 {
+          font-family: Roboto, sans-serif;
+          align-self: stretch;
+          margin: auto 0;
+        }
+        .div-18 {
+          font-family: Roboto, sans-serif;
+          align-self: stretch;
+          margin: auto 0;
+        }
+        .div-19 {
+          font-family: Roboto, sans-serif;
+          align-self: stretch;
+          margin: auto 0;
+        }
+        .div-20 {
+          font-family: Roboto, sans-serif;
+          justify-content: center;
+          align-items: center;
+          border-radius: 100px 100px 0px 0px;
+          background-color: var(--1, #ffaf38);
+          align-self: stretch;
+          aspect-ratio: 1;
+          height: 36px;
+          color: var(--4, var(--Color-4, #fff));
+          padding: 0 14px;
+        }
+        .div-21 {
+          justify-content: space-between;
+          align-items: center;
+          display: flex;
+          gap: 20px;
+          font-weight: 400;
+          padding: 0 3px 0 10px;
+        }
+        .div-22 {
+          font-family: Roboto, sans-serif;
+          align-self: stretch;
+          flex-grow: 1;
+          margin: auto 0;
+        }
+        .div-23 {
+          font-family: Roboto, sans-serif;
+          align-self: stretch;
+          margin: auto 0;
+        }
+        .div-24 {
+          font-family: Roboto, sans-serif;
+          align-self: stretch;
+          margin: auto 0;
+        }
+        .div-25 {
+          font-family: Roboto, sans-serif;
+          align-self: stretch;
+          margin: auto 0;
+        }
+        .div-26 {
+          font-family: Roboto, sans-serif;
+          align-self: stretch;
+          margin: auto 0;
+        }
+        .div-27 {
+          font-family: Roboto, sans-serif;
+          /* align-self: stretch; */
+          margin: auto 0;
+        }
+        .div-28 {
+          font-family: Roboto, sans-serif;
+          justify-content: center;
+          align-items: center;
+          border-radius: 0px 0px 100px 100px;
+          background-color: var(--1, #ffaf38);
+          align-self: stretch;
+          aspect-ratio: 1;
+          height: 36px;
+          color: var(--4, var(--Color-4, #fff));
+          padding: 0 10px;
+        }
+        .div-29 {
+          justify-content: space-between;
+          display: flex;
+          margin-top: 8px;
+          width: 100%;
+          gap: 20px;
+          text-align: center;
+          padding: 0 15px;
+        }
+        .div-30 {
+          color: var(--3, #111a34);
+          flex-basis: auto;
+          margin: auto 0;
+          font: 600 18px Urbanist, sans-serif;
+        }
+        .div-31 {
+
+          justify-content: center;
+          align-items: center;
+          border-radius: 50px;
+          background-color: var(--1, #ffaf38);
+          height: 36px;
+          color: var(--4, var(--Color-4, #fff));
+          white-space: nowrap;
+          padding: 10px 10px;
+          font: 400 14px Rosboto, sans-serif;
+        }
+        .div-32 {
+          display: flex;
+          margin-top: 8px;
+          width: 100%;
+          gap: 10px;
+          padding: 0% 12px;
+          flex-direction: column;
+          height: calc(100vh - 300px);
+          overflow-y: auto;
+        }
+        .div-32::-webkit-scrollbar{
+          width: 0%;
+        }
+        .div-33 {
+          border-radius: 20px;
+          box-shadow: 0px 2px 3px 0px rgba(0, 0, 0, 0.25);
+          background-color: var(--Color-4, #fff);
+          display: flex;
+          width: 100%;
+          flex-direction: column;
+          justify-content: center;
+          padding: 10px;
+        }
+        .div-34 {
+          justify-content: space-between;
+          display: flex;
+          width: 100%;
+          gap: 20px;
+          padding: 0 2px;
+        }
+        .div-35 {
+          display: flex;
+          justify-content: space-between;
+          gap: 12px;
+          font-size: 16px;
+          color: var(--3, #111a34);
+          font-weight: 400;
+          white-space: nowrap;
+        }
+        .img-5 {
+          aspect-ratio: 1;
+          object-fit: auto;
+          object-position: center;
+          width: 58px;
+          align-self: start;
+        }
+        .div-36 {
+          display: flex;
+          flex-grow: 1;
+          flex-basis: 0%;
+          flex-direction: column;
+        }
+        .div-37 {
+          font-family: Urbanist, sans-serif;
+          font-weight: 700;
+        }
+        .div-38 {
+          font-family: Inter, sans-serif;
+          margin-top: 4px;
+        }
+        .div-39 {
+          margin-top: 4px;
+          font: 12px Urbanist, sans-serif;
+        }
+        .div-40 {
+          justify-content: center;
+          align-items: center;
+          border-radius: 62.5px;
+          background-color: #6b6b6b;
+          display: flex;
+          aspect-ratio: 1;
+          width: 50px;
+          height: 50px;
+          margin: auto 0;
+          padding: 0 13px;
+        }
+        .img-6 {
+          aspect-ratio: 1;
+          object-fit: auto;
+          object-position: center;
+          width: 100%;
+        }
+
+        .div-80 {
+          position: fixed;
+          bottom: 0%;
+          border-radius: 50px;
+          background-color: #111a34;
+          width: 100%;
+          /* background-color: var(--Color-4, #fff); */
+          display: flex;
+          justify-content: space-between;
+          gap: 0px;
+          padding: 0 29px 20px;
+        }
+        
+        
